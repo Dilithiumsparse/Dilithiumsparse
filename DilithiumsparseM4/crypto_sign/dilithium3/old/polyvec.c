@@ -1,1 +1,0 @@
-../../dilithium2/old/polyvec.c
