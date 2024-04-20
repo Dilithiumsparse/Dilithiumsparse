@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "mult_params.h": "c",
-        "string.h": "c",
-        "polyvec.h": "c"
-    }
-}
